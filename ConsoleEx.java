@@ -12,6 +12,6 @@ String n=c.readLine();
 System.out.println("Welcome "+n);
 		}catch(NullPointerException e){System.out.println("caught ");}
 		
-	}
+	} yes
 
 }
